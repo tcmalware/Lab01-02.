@@ -1,0 +1,11 @@
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\bin\Debug\Lab01-02.exe.config
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\bin\Debug\Lab01-02.exe
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\bin\Debug\Lab01-02.pdb
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.AssemblyReference.cache
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.SuggestedBindingRedirects.cache
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01_02.formulario.resources
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01_02.Properties.Resources.resources
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.GenerateResource.cache
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01-02.csproj.CoreCompileInputs.cache
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01-02.exe
+C:\Users\GENARO\source\repos\Lab01-02\Lab01-02\obj\Debug\Lab01-02.pdb
